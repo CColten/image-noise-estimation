@@ -1,0 +1,18 @@
+﻿生成启动时间为 2016/11/21 16:23:30。
+     1>项目“D:\Documents and Settings\Desktop\Image_Noise_Estimation\Image_Noise_Estimation\Image_Noise_Estimation.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\opencv\build\include\opencv2\core\mat.hpp(1413): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\documents and settings\desktop\image_noise_estimation\image_noise_estimation\main.cpp(223): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+     1>d:\documents and settings\desktop\image_noise_estimation\image_noise_estimation\main.cpp(379): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+     1>d:\documents and settings\desktop\image_noise_estimation\image_noise_estimation\main.cpp(497): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\documents and settings\desktop\image_noise_estimation\image_noise_estimation\main.cpp(700): warning C4101: “Gaussian_sigma”: 未引用的局部变量
+       Link:
+         E:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Documents and Settings\Desktop\Image_Noise_Estimation\Debug\Image_Noise_Estimation.exe" /INCREMENTAL /NOLOGO opencv_ts300d.lib opencv_world300d.lib opencv_ts300.lib opencv_world300.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Documents and Settings\Desktop\Image_Noise_Estimation\Debug\Image_Noise_Estimation.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Documents and Settings\Desktop\Image_Noise_Estimation\Debug\Image_Noise_Estimation.lib" /MACHINE:X86 Debug\main.obj
+         Image_Noise_Estimation.vcxproj -> D:\Documents and Settings\Desktop\Image_Noise_Estimation\Debug\Image_Noise_Estimation.exe
+     1>已完成生成项目“D:\Documents and Settings\Desktop\Image_Noise_Estimation\Image_Noise_Estimation\Image_Noise_Estimation.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.55
